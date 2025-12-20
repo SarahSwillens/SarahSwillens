@@ -1,4 +1,4 @@
-<h1 align="left">Hi There! Welcome to my profile. Feel free to explore!</h1>
+<h1 align="left">Hi There! My name is Sarah! I just startet to learn developing at Developer Akademie. Welcome to my profile - feel free to explore!</h1>
 
 ###
 
